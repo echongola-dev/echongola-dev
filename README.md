@@ -12,8 +12,7 @@ Hello Im Edio Chongola
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img  <img align="center" alt="java" height="50" width="60"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img  <img align="center" alt="java" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
   
   ##
